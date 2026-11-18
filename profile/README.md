@@ -18,4 +18,8 @@ Movies, series and live TV in one place. A fast built-in player, addon support, 
 - [Discord](https://discord.gg/cwzHH3r9pa)
 - [Telegram](https://t.me/plaviomedia)
 
+## Contributing
+
+Want to help build Plavio? Open an issue here or say hello in our [Discord](https://discord.gg/cwzHH3r9pa).
+
 Made by Kotlinsyd
