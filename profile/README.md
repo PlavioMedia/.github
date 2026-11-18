@@ -1,4 +1,4 @@
-![Plavio](plavio-banner.png)
+![Plavio](plavio-banner-dark.png)
 
 # Plavio Media
 
